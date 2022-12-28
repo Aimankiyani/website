@@ -1,0 +1,29 @@
+.reg{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 60px;
+}
+.con{
+    width: 403px;
+}
+.for{
+    margin-top: 90px;
+    
+}
+.save{
+    border-width: 3px;
+    border: 1px solid black;
+}
+.sub{
+    margin-left: 318px;
+}
+.hom{
+    margin-left: 115px;
+    margin-top: 85px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.col{
+    background-color: lightgoldenrodyellow;
+}
+h2{
+   margin-top: -2px; 
+}
